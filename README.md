@@ -23,3 +23,5 @@ This project involves building a machine learning pipeline to forecast credit ca
 
 
 This streamlined workflow enables stakeholders to make data-driven decisions, visualize model performance, and maintain comprehensive documentation for lifecycle management.
+
+468
